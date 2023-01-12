@@ -38,9 +38,6 @@ ul {
 .ms_jumbotron {
     background-color: #1abc9c;
     color: white;
-
-    /* DEBUG */
-    /* height: 25rem; */
 }
 
 .ms_jumbotron img {
@@ -57,12 +54,6 @@ ul {
 /***************
 ****** MAIN ****/
 
-#portfolio {
-
-    /* Debug */
-    /* height: 25rem; */
-}
-
 .ms_box {
     height: 20rem;
     background-color: red;
@@ -72,9 +63,6 @@ ul {
 
 #about {
     background-color: #1abc9c;
-
-    /* DEBUG */
-    /* height: 35rem; */
 }
 
 .ms_btn {
@@ -93,8 +81,6 @@ ul {
 
 #info {
     background-color: #3b546d;
-    /* debug */
-    /* height: 35rem; */
     color: white;
 }
 
