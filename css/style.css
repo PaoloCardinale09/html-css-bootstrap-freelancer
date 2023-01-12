@@ -43,6 +43,10 @@ ul {
     /* height: 25rem; */
 }
 
+.ms_jumbotron img {
+    width: 12rem;
+}
+
 .ms_line {
     height: .15rem;
     width: 12%;
@@ -73,11 +77,16 @@ ul {
     /* height: 35rem; */
 }
 
+.ms_btn {
+    width: fit-content;
+    margin: auto;
+}
+
 /* Contact */
 
-#contact br {
-    /* background-color: #d9d9d9; */
-
+#contact .ms_btn {
+    background-color: #1abc9c;
+    margin: 0;
 }
 
 /* info */
