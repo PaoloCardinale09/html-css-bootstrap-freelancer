@@ -6,7 +6,6 @@ body a {
 /**************
 **** HEADER ***/
 header {
-
     background-color: #2c3f50;
 }
 
@@ -38,11 +37,6 @@ header {
 /***************
 ****** MAIN ****/
 
-.ms_box {
-    height: 20rem;
-    background-color: red;
-}
-
 /* About */
 
 #about {
@@ -58,7 +52,6 @@ header {
 
 #contact .ms_btn {
     background-color: #1abc9c;
-    margin: 0;
 }
 
 /* info */
